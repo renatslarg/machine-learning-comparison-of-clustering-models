@@ -1,0 +1,2 @@
+# machine-learning-comparison-of-clustering-models
+El proyecto aborda la necesidad de comprender y diferenciar la heterogénea base de clientes B2B de una agencia digital para superar las limitaciones de una  estrategia comercial genérica. Para ello, se implementó la segmentación de clientes siguiendo la metodología CRISP-DM. Se evaluaron y compararon: K-Means, DBSCAN y Gaussian Mixture Model(GMM).
